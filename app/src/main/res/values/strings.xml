@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Погодушка</string>
+    <string name="speed">Скорость ветра:</string>
+    <string name="humid">Влажность:</string>
+    <string name="feels_weather">Ощущается как:</string>
+    <string name="date_time">Время:</string>
+    <string name="temp">    </string>
+    <string name="date">    </string>
+    <string name="Current_weather">               </string>
+</resources>
